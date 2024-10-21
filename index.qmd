@@ -14,3 +14,5 @@ about:
       text: Instagram
       href: https://www.instagram.com/ericaaa1130
 ---
+
+I am a first-year Master of Science student in Statistics at the University of Chicago. I hold a Bachelor of Arts in Mathematics (Statistics track) from Boston University, where I graduated magna cum laude. I have worked on data-driven projects in areas such as health research and predictive modeling. I plan to pursue further studies in biostatistics following the completion of my master’s degree.
