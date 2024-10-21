@@ -13,5 +13,6 @@ website:
 format:
   html:
     theme: minty
+    mainfont: "'Montserrat', sans-serif"
     # css: my-style.css
     # toc: true
