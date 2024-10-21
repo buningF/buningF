@@ -12,6 +12,6 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: minty
     # css: my-style.css
     # toc: true
