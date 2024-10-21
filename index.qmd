@@ -3,4 +3,14 @@ title: "Home Page"
 about:
   template: jolla
   image: images/IMG_9004.jpeg
+  links:
+    - icon: buildings
+      text: UChicago Page
+      href: https://stat.uchicago.edu/people/profile/buning-fan/
+    - icon: github
+      text: GitHub
+      href: https://github.com/buningF
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/ericaaa1130
 ---
